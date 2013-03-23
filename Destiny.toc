@@ -1,0 +1,6 @@
+## Interface: 50200
+## Title: Destiny
+## Notes: Automatically selects raid role
+## Author: Saibantes
+
+Destiny.lua
